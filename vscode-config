@@ -1,0 +1,22 @@
+{
+    "editor.minimap.enabled": false,
+    "explorer.openEditors.visible": 0,
+    "terminal.integrated.shell.windows": "C:\\Windows\\System32\\cmd.exe",
+    "php.validate.executablePath": "C:\\xampp\\php\\php.exe",
+    "php.executablePath": "C:\\xampp\\php\\php.exe",
+    "files.associations": {
+        "*.blade.php": "html",
+        ".tpl": "html"
+    },
+    "[html]": {
+        "editor.defaultFormatter": "HookyQR.beautify"
+    },
+    "[javascript]": {
+        "editor.defaultFormatter": "HookyQR.beautify"
+    },
+    "workbench.colorTheme": "Visual Studio Dark",
+    "editor.fontWeight": "100",
+    "editor.fontFamily": "'Fira Code', Consolas, 'Courier New', monospace",
+    "editor.fontLigatures": true,
+    "editor.fontSize": 15,
+}
